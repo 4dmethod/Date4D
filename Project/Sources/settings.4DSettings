@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="3">
+	<com.4d>
+		<interface>
+			<developper display_toolbar="false"/>
+			<user flush_window="false" print_progress="false" splash_screen="false"/>
+			<shortcuts>
+				<accept_input_form alt="false" command="false" ctrl="false" key_code="0" shift="false"/>
+				<cancel_input_form alt="false" command="false" ctrl="false" key_code="0" shift="false"/>
+				<add_subform alt="false" command="false" ctrl="false" key_code="0" shift="false"/>
+			</shortcuts>
+		</interface>
+		<compiler>
+			<options compilation_path="1"/>
+		</compiler>
+		<database>
+			<cache adaptative="false" flush_buffer_delay="20s" size_fixed="500"/>
+		</database>
+		<server>
+			<network>
+				<options publication_name="Date Class Test"/>
+			</network>
+		</server>
+		<web>
+			<standalone_server>
+				<configuration port_number="80"/>
+			</standalone_server>
+		</web>
+		<sql>
+			<publication port_number="19812"/>
+		</sql>
+		<php ip_address="127.0.0.1"/>
+		<general allow_user_settings="true"/>
+	</com.4d>
+</preferences>

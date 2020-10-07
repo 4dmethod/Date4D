@@ -1,0 +1,25 @@
+﻿{
+	"methods": {
+		"TestSimpleTest": {
+			"timeStamp": "2020-10-07T17:33:30.845Z"
+		},
+		"TestMethod": {
+			"timeStamp": "2020-10-07T18:10:45.929Z"
+		},
+		"TestNewProcess2": {
+			"timeStamp": "2020-10-05T15:55:43.481Z"
+		},
+		"JScompatibilityIsEnabled": {
+			"timeStamp": "2020-10-07T18:10:41.502Z"
+		},
+		"TestNewProcess": {
+			"timeStamp": "2020-10-05T21:31:33.062Z"
+		},
+		"(Method3)": {
+			"timeStamp": "2020-07-16T21:01:51.000Z"
+		},
+		"(Method2)": {
+			"timeStamp": "2020-07-16T20:59:42.000Z"
+		}
+	}
+}
